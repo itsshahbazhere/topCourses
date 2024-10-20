@@ -4,7 +4,7 @@ Welcome to the **Top Courses** application, a React-based web app that helps you
 
 ## Live Demo
 
-You can view the live application at [https://itsshahbazhere.github.io/topCourses/](https://itsshahabazhere.github.io/topCourses/).
+You can view the live application at [https://itsshahbazhere.github.io/topCourses/](https://itsshahbazhere.github.io/topCourses/).
 
 ## Features
 
