@@ -4,7 +4,7 @@ Welcome to the **Top Courses** application, a React-based web app that helps you
 
 ## Live Demo
 
-You can view the live application at [https://itsshahabazhere.github.io/topCourses/](https://itsshahabazhere.github.io/topCourses/).
+You can view the live application at [https://itsshahbazhere.github.io/topCourses/](https://itsshahabazhere.github.io/topCourses/).
 
 ## Features
 
@@ -28,5 +28,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/itsshahabazhere/topCourses.git
+   git clone https://github.com/itsshahbazhere/topCourses.git
    cd topCourses
